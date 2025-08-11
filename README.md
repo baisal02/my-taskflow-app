@@ -26,9 +26,6 @@ java -jar target/taskflow-0.0.1-SNAPSHOT.jar
 Note: Port 8080 must be free for the app container
 Swagger UI → [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)  
 
-**Admin Login:**  
-`admin` / `admin`  
-
 ---
 
 ## 🐳 Run with Docker Compose (App + DB)
@@ -38,6 +35,9 @@ docker compose up --build
 ```
 Note: Port 8080 must be free for the app container
 Swagger UI → [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)  
+
+**Admin Login:**  
+`admin` / `admin`  
 
 ---
 
