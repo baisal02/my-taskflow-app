@@ -14,6 +14,7 @@ A Java 21 + Spring Boot 3.2.x application for managing tasks and teams with JWT 
 ---
 
 ## 🚀 Run Locally
+Clone the project into your machine 
 ```bash
 # 1. Build
 ./mvnw clean package
